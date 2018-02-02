@@ -57,7 +57,8 @@ Collection of useful links for developers who are new to {N}ativeScript
 
 ************
 
-## Useful Links (in the order that my mind dictated :P)
+## Useful Links
+### (in the order that my mind dictated :P)
 
 1. http://developer.telerik.com/featured/demystifying-nativescript-layouts/
 
