@@ -62,15 +62,15 @@ Collection of useful links for developers who are new to {N}ativeScript
 
 1. http://developer.telerik.com/featured/demystifying-nativescript-layouts/
 
-2. {N} Forum: forum.nativescript.org
+2. {N} Forum: https://forum.nativescript.org
 
-3. {N} Market: market.nativescript.org
+3. {N} Market: https://market.nativescript.org
 
 4. Theme Builder: https://www.nativescriptthemebuilder.com/
 
 5. Page Containing a bunch of Useful links: http://nativescript.rocks/
 
-6. {N} Snacks: nativescriptsnacks.com
+6. {N} Snacks: http://nativescriptsnacks.com
 
 7. NativeScript Online Courses: https://nativescripting.com/
 
