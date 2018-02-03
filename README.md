@@ -83,6 +83,8 @@ Collection of useful links for developers who are new to {N}ativeScript
 
 10. MBaaS backed by Progress: https://www.kinvey.com/
 
+11. Learn {N} Layouts: http://nslayouts.com
+
 ### BONUS: Yet another curated list of Awesome Links!! - https://github.com/DeviantJS/awesome-nativescript
 
 Also here's the link to completed {N} Angular Groceries app on Playground
