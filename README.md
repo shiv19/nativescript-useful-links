@@ -85,6 +85,8 @@ Collection of useful links for developers who are new to {N}ativeScript
 
 11. Learn {N} Layouts: http://nslayouts.com
 
+12. https://www.nativescript.org/blog/code-sharing-between-web-and-mobile-with-angular-and-nativescript
+
 ### BONUS: Yet another curated list of Awesome Links!! - https://github.com/DeviantJS/awesome-nativescript
 
 Also here's the link to completed {N} Angular Groceries app on Playground
