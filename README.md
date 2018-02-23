@@ -92,3 +92,6 @@ Collection of useful links for developers who are new to {N}ativeScript
 Also here's the link to completed {N} Angular Groceries app on Playground
 https://play.nativescript.org/?template=groceries-ng&tutorial=groceries-ng&id=gXwjSY&v=5
 
+ngIndia Conf demo app on Playground
+https://play.nativescript.org/?template=play-ng&id=SnwPYl&v=12
+
