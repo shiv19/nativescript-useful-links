@@ -95,3 +95,9 @@ https://play.nativescript.org/?template=groceries-ng&tutorial=groceries-ng&id=gX
 ngIndia Conf demo app on Playground\
 https://play.nativescript.org/?template=play-ng&id=SnwPYl&v=15
 
+ngIndia Slide Deck\
+https://shiv19.com/ngindia
+
+ngHyderabad Slide Deck\
+https://shiv19.com/nsng
+
