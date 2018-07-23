@@ -93,7 +93,7 @@ Also here's the link to completed {N} Angular Groceries app on Playground\
 https://play.nativescript.org/?template=groceries-ng&tutorial=groceries-ng&id=gXwjSY&v=7
 
 ngIndia Conf demo app on Playground\
-https://play.nativescript.org/?template=play-ng&id=SnwPYl&v=15
+https://play.nativescript.org/?template=play-ng&id=SnwPYl&v=16
 
 DevTheory Conf Slide Deck\
 http://shiv19.com/nsdevtheory
