@@ -87,6 +87,14 @@ Collection of useful links for developers who are new to {N}ativeScript
 
 12. https://www.nativescript.org/blog/code-sharing-between-web-and-mobile-with-angular-and-nativescript
 
+13. Understanding {N} Layouts: https://www.youtube.com/watch?v=CtJTwEDnge4
+
+14: Using SCSS with {N} part 1 of 3: https://www.youtube.com/watch?v=72-Wh1l0mDc
+
+15: Using SCSS with {N} part 2 of 3: https://www.youtube.com/watch?v=KGrqhI8UTpU
+
+16: Using SCSS with {N} part 3 of 3: (not out yet)
+
 ### BONUS: Yet another curated list of Awesome Links!! - https://github.com/DeviantJS/awesome-nativescript
 
 Also here's the link to completed {N} Angular Groceries app on Playground\
@@ -103,4 +111,7 @@ https://shiv19.com/ngindia
 
 ngHyderabad Slide Deck\
 https://shiv19.com/nsng
+
+DevConf Slide Deck\
+https://shiv19.com/devconfns
 
