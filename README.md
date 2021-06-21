@@ -1,6 +1,8 @@
 # nativescript-useful-links
 Collection of useful links for developers who are new to {N}ativeScript
 
+NOTE: Some of the links below are currently broken.
+
 ## Apps to Download for using Playground
 ### {N} Playground
    - iOS: https://itunes.apple.com/us/app/nativescript-playground/id1263543946?mt=8&ls=1
