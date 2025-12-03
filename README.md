@@ -106,7 +106,7 @@ ngIndia Conf demo app on Playground\
 https://play.nativescript.org/?template=play-ng&id=SnwPYl&v=16
 
 DevTheory Conf Slide Deck\
-http://shiv19.com/nsdevtheory
+http://shiv19.com/shortcut2native
 
 ngIndia Slide Deck\
 https://shiv19.com/ngindia
